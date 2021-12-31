@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cloakmarket/static/css/main.11b18b79.css",
+    "main.js": "/cloakmarket/static/js/main.48664fdd.js",
+    "static/js/787.249cdee1.chunk.js": "/cloakmarket/static/js/787.249cdee1.chunk.js",
+    "index.html": "/cloakmarket/index.html",
+    "main.11b18b79.css.map": "/cloakmarket/static/css/main.11b18b79.css.map",
+    "main.48664fdd.js.map": "/cloakmarket/static/js/main.48664fdd.js.map",
+    "787.249cdee1.chunk.js.map": "/cloakmarket/static/js/787.249cdee1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11b18b79.css",
+    "static/js/main.48664fdd.js"
+  ]
+}
